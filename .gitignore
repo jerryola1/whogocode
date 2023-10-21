@@ -19,6 +19,8 @@ yarn-error.log
 /public/hot
 /public/storage
 /public/build
+/public/.htaccess
+/public/index.php
 /storage/*.key
 /.idea
 
