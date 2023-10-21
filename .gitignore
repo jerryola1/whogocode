@@ -23,6 +23,7 @@ yarn-error.log
 /public/index.php
 /storage/*.key
 /.idea
+/config
 
 # React-specific
 /build
